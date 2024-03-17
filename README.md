@@ -6,4 +6,4 @@ Diferentes versiones, y mejoradas de diferentes tecnicas de como resolver la con
 
 - morse-v2.cpp -->> Es una segunda version con un pequeño menu y realiza la conversión a los dos sentidos.
 
-- Codigo-Morse -->> morse-v3.cpp -->> Traductor a Morse con sonido e inverso en qt y c++ consola
+- morse-v3.cpp -->> Traductor a Morse con sonido e inverso en qt y c++ consola
