@@ -1,4 +1,4 @@
-# Aplicaciónes de conversion de Codigo-Morse (y viceversa)
+# Aplicaciones de conversion de Codigo-Morse (y viceversa)
 
 Diferentes versiones, y mejoradas de diferentes tecnicas de como resolver la conversiones.
 
